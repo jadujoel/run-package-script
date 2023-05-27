@@ -1,0 +1,13 @@
+{
+  "name": "run-package-script",
+  "version": "0.0.1",
+  "description": "A utility to seamlessly run scripts from any package in the node_modules directory, right from your project root. It enhances workflow by eliminating the need to manually navigate to the package's directory to run scripts.",
+  "main": "main.sh",
+  "bin": "main.sh",
+  "scripts": {
+	"postinstall": "chmod +x ./main.sh"
+  },
+  "keywords": [],
+  "author": "Joel Lof <jlof@evolution.com> (https://joellof.com/)",
+  "license": "MIT"
+}
