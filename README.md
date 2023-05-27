@@ -50,7 +50,7 @@ This command will run the `start` script from the `my-package` package, with `--
 
 ## Contributing
 
-Contributions, issues, and feature requests are welcome. Feel free to check the [issues page](https://github.com/username/run-package-script/issues) for any open issues or to open a new one.
+Contributions, issues, and feature requests are welcome. Feel free to check the [issues page](https://github.com/jadujoel/run-package-script/issues) for any open issues or to open a new one.
 
 Please make sure to update tests as appropriate.
 
@@ -60,6 +60,6 @@ This project is open source and available under the [MIT License](https://openso
 
 ---
 
-This README is a guide to getting started with `run-package-script`. For more information or if you have questions, you can check the source code or open an issue on the GitHub repository.
+This README is a guide to getting started with `run-package-script`. For more information or if you have questions, you can check the source code or open an issue on the [GitHub repository](https://github.com/jadujoel/run-package-script/).
 
 Happy coding!
